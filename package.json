@@ -1,0 +1,13 @@
+{
+  "name": "arduino-node-socket",
+  "version": "0.0.1",
+  "description": "Serial data from arduino to JS app with Socket.io",
+  "dependencies": {
+    "express": "^4.15.2",
+    "serialport": "^7.0.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
